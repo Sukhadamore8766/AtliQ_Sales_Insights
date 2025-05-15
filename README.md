@@ -1,6 +1,6 @@
 # AtliQ_Sales_Insights
 
-<img src="Images/Maven Supplies Logo.png" width="2000" height="200"/>&nbsp;
+<img src="Images/atliq logo.png" width="2000" height="200"/>&nbsp;
 
 ## Overview
 
@@ -11,7 +11,7 @@ This repository contains a Tableau dashboard that provides insights into  AtliQ 
 The analysis in this project is based on the AtliQ dataset. The dataset includes Customers,Product,Dates,Markets and Transaction data, which were used to generate insights.
 
 ## Tool used :
-<img src="Images/tableau logo.jpg" width="300" height="150"/>&nbsp;
+<img src="Images/Tableau-Logo.png" width="300" height="150"/>&nbsp;
 
 
 ## Key Insights
