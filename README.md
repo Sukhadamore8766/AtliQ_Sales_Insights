@@ -11,7 +11,7 @@ This repository contains a Tableau dashboard that provides insights into  AtliQ 
 The analysis in this project is based on the AtliQ dataset. The dataset includes Customers,Product,Dates,Markets and Transaction data, which were used to generate insights.
 
 ## Tool used :
-<img src="[Images/Tableau logo.png](https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg)" width="300" height="150"/>&nbsp;
+<img src="Images/tableau logo.jpg" width="300" height="150"/>&nbsp;
 
 
 ## Key Insights
@@ -64,8 +64,8 @@ Data Processing
 •	The insights can guide strategic decisions such as regional investments, discount policies, and category prioritization.
 
 ## Dashboard :
-<img src="Images/Dashboard.png" width="2500" height="600"/>&nbsp;
+<img src="Images/atliQ_sales_insights_dashboard.png" width="2500" height="600"/>&nbsp;
 
 ## Story Telling :
 
-<img src="Images/Story Telling.png" width="2500" height="600"/>&nbsp;
+<img src="Images/dashboard_story.png" width="2500" height="600"/>&nbsp;
