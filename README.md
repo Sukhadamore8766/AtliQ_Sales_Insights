@@ -8,7 +8,7 @@ This repository contains a Tableau dashboard that provides insights into  AtliQ 
 
 ## Dataset
 
-The analysis in this project is based on the MAtliQ dataset. The dataset includes Customers,Product,Dates,Markets and Transaction data, which were used to generate insights.
+The analysis in this project is based on the AtliQ dataset. The dataset includes Customers,Product,Dates,Markets and Transaction data, which were used to generate insights.
 
 ## Tool used :
 <img src="[Images/Tableau logo.png](https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg)" width="300" height="150"/>&nbsp;
