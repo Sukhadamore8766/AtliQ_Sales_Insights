@@ -36,12 +36,12 @@ This dashboard highlights key business insights through data storytelling. The f
  
 4)Seasonal Trends: The "Normalized Amount" trend chart over the years suggests potential seasonal patterns in sales, though a clearer pattern would require more detailed analysis.
 
-5) Top Customers: Electricalsara and Electricalsystical are the top two customers by normalized sales amount, significantly outperforming others.
+5)Top Customers: Electricalsara and Electricalsystical are the top two customers by normalized sales amount, significantly outperforming others.
 
 6)Revenue by Customer Type: Brick & Mortar and E-Commerce customer types contribute the most to the overall revenue, with Electrical Stores also being a 
    significant contributor.
    
-7) Yearly Comparison: Revenue appears to have generally declined from 2017 to 2020 based on the trend chart.
+7)Yearly Comparison: Revenue appears to have generally declined from 2017 to 2020 based on the trend chart.
 Data Processing
 
 ## Data Processing
